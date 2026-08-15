@@ -278,6 +278,41 @@ footer{
   margin-bottom: 18px;
 }
 
+#amount-field{
+  margin: -8px 0 18px;
+}
+
+#amount-field label{
+  display:block;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  margin-bottom: 6px;
+}
+
+#amount-input{
+  width:100%;
+  padding: 10px 12px;
+  border-radius: 6px;
+  border: 1.5px solid var(--paper-shadow);
+  font-family:'Work Sans', sans-serif;
+  font-size: 0.95rem;
+}
+
+.tag-btn.secondary{
+  background: transparent;
+  color: var(--forest);
+  border: 1.5px solid var(--forest);
+}
+.tag-btn.secondary:hover{ background: rgba(31,59,51,0.06); }
+
+.contributors{
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  margin: 0;
+  line-height: 1.5;
+}
+.contributors strong{ color: var(--ink); }
+
 .modal-actions{
   display:flex;
   gap: 10px;
