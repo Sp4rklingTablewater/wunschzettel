@@ -42,7 +42,7 @@ export const items = [
   {
     id: "3",
     name: "Neopren Kurzhanteln 1–3 kg",
-    description: "Etwas Pflegeleichtes für den Schreibtisch, z. B. eine Monstera.",
+    description: "Mit Ständer",
     price: "34,90 €",
     image: "https://m.media-amazon.com/images/I/716oXeY-t0L._AC_SL1500_.jpg",
     link: "https://www.amazon.de/Hantelset-Kurzhanteln-ergonomischer-rollsicher-Krafttraining/dp/B0GGHNMQ58"
