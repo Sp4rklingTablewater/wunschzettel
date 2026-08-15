@@ -17,11 +17,11 @@ export const pageTitle = "Was ich mir wünsche";
 export const items = [
   {
     id: "1",
-    name: "Kopfhörer",
-    description: "Kabellos, am liebsten in Schwarz oder Dunkelgrün.",
-    price: "89 €",
-    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
-    link: ""
+    name: "Adidas DVV Trikot sleeveless Damen 2026",
+    description: "VEREDELN > Spielername und- Nummer: STRAUBE + 23",
+    price: "89,45 €",
+    image: "https://cdn.volleyballdirekt.de/full/AD7DVVJM4687-black.jpg",
+    link: "https://www.volleyballdirekt.de/adidas-dvv-trikot-sleeveless-damen-2026-damen-2435724.html"
   },
   {
     id: "2",
