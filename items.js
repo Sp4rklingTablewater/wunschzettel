@@ -18,7 +18,7 @@ export const items = [
   {
     id: "1",
     name: "Adidas DVV Trikot sleeveless Damen 2026",
-    description: "VEREDELN > Spielername und- Nummer: STRAUBE + 23",
+    description: "VEREDELN > Spielername und- Nummer: STRAUBE + 23, Größe XS",
     price: "89,45 €",
     image: "https://www.zdfheute.de/assets/sarah-straube-102~1200x1200?cb=1783582079299",
     link: "https://www.volleyballdirekt.de/adidas-dvv-trikot-sleeveless-damen-2026-damen-2435724.html"
@@ -26,7 +26,7 @@ export const items = [
   {
     id: "4",
     name: "Adidas DVV Trikot sleeveless Damen 2026",
-    description: "VEREDELN > Spielername und- Nummer: ALSMEIER + 9",
+    description: "VEREDELN > Spielername und- Nummer: ALSMEIER + 9, Größe XS",
     price: "89,45 €",
     image: "https://cdn.volleyballdirekt.de/full/AD7DVVJM4687-black.jpg",
     link: "https://www.volleyballdirekt.de/adidas-dvv-trikot-sleeveless-damen-2026-damen-2435724.html"
