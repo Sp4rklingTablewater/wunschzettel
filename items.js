@@ -36,7 +36,7 @@ export const items = [
     name: "Schreibtisch Organizer",
     description: "Blau.",
     price: "31,99 €",
-    image: "https://m.media-amazon.com/images/G/03/apparel/rcxgs/tile._CB483369910_.gif",
+    image: "https://m.media-amazon.com/images/I/81jE9Ggz+PL._AC_SL1500_.jpg",
     link: "https://www.amazon.de/Marbrasse-Schreibtisch-Briefablage-Briefst%C3%A4nder-Schreibtischzubeh%C3%B6r/dp/B0FV7WMBYP?pd_rd_w=oTc9t&content-id=amzn1.sym.bbac26bb-3f7b-44dd-a8a5-c10fcfb1ed60%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=bbac26bb-3f7b-44dd-a8a5-c10fcfb1ed60&pf_rd_r=BN28J18AQ89971BG4A3D&pd_rd_wg=yq5R7&pd_rd_r=93981d23-4bb5-4cbd-9831-5a5e47d873b1&pd_rd_i=B0FV7WMBYP&th=1"
   },
   {
