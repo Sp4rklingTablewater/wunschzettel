@@ -64,3 +64,11 @@ export const items = [
     link: "https://www.amazon.de/Apple-Aluminiumgeh%C3%A4use-Sportarmband-Schlaftracker-Herzfrequenzmesser/dp/B0FQG55GFH?dib=eyJ2IjoiMSJ9.TSLqwHRZVe4_10k2OZWYYuupNy99hqwm94f167yfAob4V1uDTUNuLrHLC5s34cNNcj24Ua1gkh623AWbqjduDBCRkzHiVx4dIKEN0CErNJtYHtZ1NFjmqk3wNNkcQ02v_QpteMZojje1RHs3LskqGmeQRFPZRnmsPwj367ILlZeNyssJDFO-R3AOtVrem7psyDHto3g6oDzm9hShw1r-dROG6IHn105xTpWlJdKjpcM.NhG25zHhhjVFMP7VTEqZ-2gaLHwEnoSzXciN_EDzgjE&dib_tag=se&keywords=apple%2Bwatch&qid=1786793944&sr=8-11&th=1"
   }
 ];
+{
+    id: "7",
+    name: "ESN Shaker Reforce Stainless Steel",
+    description: "schwarz, 700 ml ",
+    price: "19,90 €",
+    image: "https://m.media-amazon.com/images/I/61VZMT1hiiL._AC_SL1500_.jpg",
+    link: "https://www.amazon.de/ESN-Shaker-Reforce-Stainless-Steel/dp/B0BTJ6LM97/262-3727918-8074566?pd_rd_w=XzLN8&content-id=amzn1.sym.633823c2-ab75-447c-a9af-015032f59703&pf_rd_p=633823c2-ab75-447c-a9af-015032f59703&pf_rd_r=01FP8G8J1RJHVDHNW8J8&pd_rd_wg=BgACr&pd_rd_r=a7c4d95e-11f0-46d9-b748-44e42f1c82e7&pd_rd_i=B0BTJ6LM97&th=1"
+  },
